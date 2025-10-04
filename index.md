@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+  
   I’m Jiajia Wang, a fourth-year Ph.D. candidate in the Department of Mathematics at the University of California, San Diego, advised by Jiawang Nie. My research focuses on optimization, particularly polynomial optimization, bilevel optimization, and multi-task learning, with additional interests in tensor computations. I completed my undergraduate studies in Applied Mathematics at the University of California, Santa Barbara, under the supervision of Zheng Zhang in the ECE Department.
   
 # Publications and Preprints
