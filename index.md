@@ -3,21 +3,29 @@ layout: default
 ---
 
 
-  I'm Jiajia Wang, a fourth-year Ph.D. candidate in the math department at the University of California, San Diego. My advisor is Jiawang Nie. My research interests lie in optimization, especially in polynomial optimization, bilevel optimization, and multi-task learning. I am also interested in tensor computation.
+  I’m Jiajia Wang, a fourth-year Ph.D. candidate in the Department of Mathematics at the University of California, San Diego, advised by Jiawang Nie. My research focuses on optimization, particularly polynomial optimization, bilevel optimization, and multi-task learning, with additional interests in tensor computations. I completed my undergraduate studies in Applied Mathematics at the University of California, Santa Barbara, under the supervision of Zheng Zhang in the ECE Department.
+  
 # Publications and Preprints
 1. Optimization over the weakly Pareto set and multi-task learning
    [with L. Huang, J. Nie,  [arXiv:2504.00257](https://arxiv.org/abs/2504.00257), 2025] 
 
-2. Lagrange multiplier expressions for matrix polynomial optimization and tight relaxations
+3. Lagrange multiplier expressions for matrix polynomial optimization and tight relaxations
    [with L. Huang, J. Nie, L. Xie, [arXiv:2506.12579](https://arxiv.org/abs/2506.12579), 2025] 
 
-3. Moment-SOS relaxations for moment and tensor recovery problems
+4. Moment-SOS relaxations for moment and tensor recovery problems
    [with L. Huang, J. Nie, [arXiv:2404.18332](https://arxiv.org/abs/2404.18332), 2024]
 
-4. Bilevel Optimization for Hyperparameter Learning in Supporting Vector Machines
+5. Bilevel Optimization for Hyperparameter Learning in Supporting Vector Machines
    [with L. Huang, J. Nie, S Zhong]
 
-# 
+# Internship Experience 
+### Academy of Mathematics and Systems Science, Chinese Academy of Sciences — Research Assistant  
+*Beijing, China | 08/2021 – 07/2022*
+
+- Developed and mathematically validated an enhanced neural network algorithm for near-optimal VLSI circuit placement, improving solution randomness and computational speed.  
+- Implemented the neural network algorithm in Python and C++ with CUDA-based parallel computing.  
+- Led the development of an RNN-based pipeline leak detection system in collaboration with CNPC.  
+- Conducted large-scale data analysis and preprocessing, designed and implemented the detection pipeline, achieving significant improvements in prediction accuracy for industrial applications.
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
