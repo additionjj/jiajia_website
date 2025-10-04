@@ -6,17 +6,17 @@ layout: default
   I'm Jiajia Wang, a Mathematics Ph.D. student at the University of California, San Diego. 
   My research interests lie in optimization and applied mathematics.
 ### Publications and Preprints
-1. Optimization over the weakly Pareto set and multi-task learning\\
-    L. Huang, J. Nie, J. Wang,  [arXiv:2504.00257](https://arxiv.org/abs/2504.00257), 2025  
+1. Optimization over the weakly Pareto set and multi-task learning
+    - L. Huang, J. Nie, J. Wang,  [arXiv:2504.00257](https://arxiv.org/abs/2504.00257), 2025  
 
-2. Lagrange multiplier expressions for matrix polynomial optimization and tight relaxations\\  
-   L. Huang, J. Nie, J. Wang, L. Xie, [arXiv:2506.12579](https://arxiv.org/abs/2506.12579), 2025  
+2. Lagrange multiplier expressions for matrix polynomial optimization and tight relaxations
+   - L. Huang, J. Nie, J. Wang, L. Xie, [arXiv:2506.12579](https://arxiv.org/abs/2506.12579), 2025  
 
-3. Moment-SOS relaxations for moment and tensor recovery problems\\
-   L. Huang, J. Nie, J. Wang ,[arXiv:2404.18332](https://arxiv.org/abs/2404.18332), 2024  
+3. Moment-SOS relaxations for moment and tensor recovery problems
+   - L. Huang, J. Nie, J. Wang ,[arXiv:2404.18332](https://arxiv.org/abs/2404.18332), 2024  
 
-4. Bilevel Optimization for Hyperparameter Learning in Supporting Vector Machines\\ 
-   L. Huang, J. Nie, J. Wang, S Zhong
+4. Bilevel Optimization for Hyperparameter Learning in Supporting Vector Machines
+   - L. Huang, J. Nie, J. Wang, S Zhong
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
