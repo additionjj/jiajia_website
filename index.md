@@ -7,7 +7,7 @@ layout: default
   My research interests lie in optimization and applied mathematics.
 </p>
 <p>
-  <a href="files/Jiajia_Wang_CV.pdf" class="btn">View My CV</a>
+  <a href="Jiajia_CV.pdf" class="btn">View My CV</a>
 </p>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
