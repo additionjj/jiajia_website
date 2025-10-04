@@ -19,8 +19,7 @@ layout: default
    [with L. Huang, J. Nie, S Zhong]
 
 # Internship Experience 
-Academy of Mathematics and Systems Science, Chinese Academy of Sciences — Research Assistant
-*Beijing, China | 08/2021 – 07/2022*
+1. Academy of Mathematics and Systems Science, Chinese Academy of Sciences — Research Assistant
 - Developed a neural network algorithm for near-optimal VLSI circuit placement, improving solution speed and robustness.  
 - Led the development of an RNN-based pipeline leak detection system in collaboration with CNPC.  
 - Conducted large-scale data analysis and implemented detection pipelines, achieving notable improvements in prediction accuracy.
