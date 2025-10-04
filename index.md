@@ -3,8 +3,7 @@ layout: default
 ---
 
 
-  I'm Jiajia Wang, a Mathematics Ph.D. student at the University of California, San Diego. 
-  My research interests lie in optimization and applied mathematics.
+  I'm Jiajia Wang, a fourth-year Ph.D. candidate in the math department at the University of California, San Diego. My advisor is Jiawang Nie. My research interests lie in optimization, especially in polynomial optimization, bilevel optimization, and multi-task learning. I am also interested in tensor computation.
 # Publications and Preprints
 1. Optimization over the weakly Pareto set and multi-task learning
    [with L. Huang, J. Nie,  [arXiv:2504.00257](https://arxiv.org/abs/2504.00257), 2025] 
@@ -18,7 +17,7 @@ layout: default
 4. Bilevel Optimization for Hyperparameter Learning in Supporting Vector Machines
    [with L. Huang, J. Nie, S Zhong]
 
-## 
+# 
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
