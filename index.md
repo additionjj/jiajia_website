@@ -10,6 +10,32 @@ layout: default
   <a href="Jiajia_CV.pdf" class="btn">View My CV</a>
 </p>
 
+# Publications and Preprints
+<ul>
+    <li>
+      <strong>Optimization over the weakly Pareto set and multi-task learning</strong><br>
+      <em>L. Huang, J. Nie, J. Wang</em><br>
+      <a href="https://arxiv.org/abs/2504.00257" target="_blank">arXiv:2504.00257</a>, 2025
+    </li>
+
+    <li>
+      <strong>Lagrange multiplier expressions for matrix polynomial optimization and tight relaxations</strong><br>
+      <em>L. Huang, J. Nie, J. Wang, L. Xie</em><br>
+      <a href="https://arxiv.org/abs/2506.12579" target="_blank">arXiv:2506.12579</a>, 2025
+    </li>
+
+    <li>
+      <strong>Moment-SOS relaxations for moment and tensor recovery problems</strong><br>
+      <em>L. Huang, J. Nie, J. Wang</em><br>
+      <a href="https://arxiv.org/abs/2404.18332" target="_blank">arXiv:2404.18332</a>, 2024
+    </li>
+
+    <li>
+      <strong>Bilevel Optimization for Hyperparameter Learning in Supporting Vector Machines</strong><br>
+      <em>L. Huang, J. Nie, J. Wang</em>
+    </li>
+  </ul>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
