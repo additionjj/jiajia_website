@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<p>
+  I'm Jiajia Wang, a Mathematics Ph.D. student at the University of California, San Diego. 
+  My research interests lie in optimization and applied mathematics.
+</p>
+<p>
+  <a href="files/Jiajia_Wang_CV.pdf" class="btn">View My CV</a>
+</p>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
