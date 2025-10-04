@@ -5,7 +5,7 @@ layout: default
 
   I'm Jiajia Wang, a Mathematics Ph.D. student at the University of California, San Diego. 
   My research interests lie in optimization and applied mathematics.
-
+## Publications and Preprints
 - **Optimization over the weakly Pareto set and multi-task learning**  
   *L. Huang, J. Nie, J. Wang*  
   [arXiv:2504.00257](https://arxiv.org/abs/2504.00257), 2025  
